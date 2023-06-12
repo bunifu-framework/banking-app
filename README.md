@@ -23,5 +23,5 @@ Tools & Technologies:
 * Bunifu Framework Docs https://docs2.bunifuframework.com/docs 
 
 Screenshot:
-![Screenshot-28](https://bunifuframework.com/wp-content/uploads/2023/05/Screenshot-28.png)
+![Screenshot-28](https://bunifuframework.com/wp-content/uploads/2023/06/Screenshot-29.png)
 
